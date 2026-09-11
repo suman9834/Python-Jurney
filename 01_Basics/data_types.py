@@ -1,10 +1,10 @@
-name="suman" #string data type
-age=20 #integer data type
-roll = 101 #integer data type
-float_num = 10.5 #float data type
+name="suman" 
+age=20 
+roll = 101
+float_num = 10.5
 
-boolean_value = True #boolean data type
-none_value = None #None data type
+boolean_value = True 
+none_value = None 
 
 print(type(name))
 print(type(age))
