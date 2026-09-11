@@ -25,9 +25,10 @@ roll = 4995599.5995
 
 # In Python, we can use the type() function to check the data type of a variable. The type() function returns the data type of the variable passed to it as an argument.
 
+name="suman" #string data type
+age=20 #integer data type
+roll = 101 #integer data type
+float_num = 10.5 #float data type
 
-print(type(name)) # printing the  type of variable name
-
-print(type(age)) # printing the type of variable age
-
-print(type(roll)) # printing the type of variable roll
+boolean_value = True #boolean data type
+none_value = None #None data type
